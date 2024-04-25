@@ -1,3 +1,6 @@
+//salvador mallaina
+//comision 2
+
 PImage paisaje;
 
 //
